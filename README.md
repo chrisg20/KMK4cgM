@@ -12,8 +12,8 @@ Right click on main.py and select Open With, then choose a raw text editor like 
 
 The file should open and look like this:
 
-`
-from kb import SeeedBoard, send_string
+
+`from kb import SeeedBoard, send_string
 from kmk.keys import KC
 keyboard = SeeedBoard()
 
@@ -26,8 +26,8 @@ keyboard.keymap = [
      ]
 ]
 
-if __name__ == '__main__': keyboard.go()
-`
+`if __name__ == '__main__': keyboard.go()
+
 
 The 3x3 section of key codes in the middle determines the layout of the board. By changing these codes, the keys can be made to perform whatever function you like!
 
@@ -39,12 +39,12 @@ The codes for basic keys are very simple-- just `KC.` followed by the key code. 
 
 Here is an example of a key map of the letters A to I:
 
-`
-    [KC.A, KC.B, KC.C,
+
+`    [KC.A, KC.B, KC.C,
      KC.D, KC.E, KC.F,
      KC.G, KC.H, KC.I,
-     ]
-`
+     ]`
+
 
 Number keys must be preceded with an N, so use `KC.N1`, `KC.N2`, and so on.
 
