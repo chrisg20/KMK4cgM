@@ -4,7 +4,7 @@ A guide for using KMK on cgMacropads.
 
 # Editing
 
-To put the macropad into editor mode, unplug the device, then hold down the four corner keys and plug it into your computer.
+To put the macropad into editor mode, unplug the device, then hold down the center key and plug it into your computer.
 
 A CIRCUITPY drive will show up like a USB flash drive in your file explorer. Locate the file main.py.
 
