@@ -4,9 +4,14 @@ A guide for using KMK on cgMacropads.
 
 # Editing
 
-To put the macropad into editor mode, unplug the device, then hold down the center key and plug it into your computer.
+The download for our editing software can be found here. This is the easiest way to edit the keymaps, and should be sufficient for many users. The software is still very much in beta and feedback is welcome!
 
-A CIRCUITPY drive will show up like a USB flash drive in your file explorer. Locate the file main.py.
+IMPORTANT! Before opening the editing software, put the macropad into editor mode. This is done by unplugging the device, then holding down the center key while plugging it into your computer. Hold the key for a few seconds after the device is connected.
+
+A CGM-33 drive will show up like a USB flash drive in your file explorer.
+
+
+Locate the file main.py on the CGM-33 drive.
 
 Right click on main.py and select Open With, then choose a raw text editor like Notepad, or TextEdit on Mac.
 
