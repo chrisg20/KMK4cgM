@@ -2,7 +2,7 @@
 A guide for using KMK on cgMacropads, currently sold on Etsy [here](https://www.etsy.com/listing/1267900639/3x3-macro-pad-with-rgb-lighting)!
 
 
-# Editing
+# Editing with cgEditor
 
 The download for our editing software can be found here. This is the easiest way to edit the keymaps, and should be sufficient for many users. The software is still very much in beta and feedback is welcome!
 
@@ -10,6 +10,7 @@ IMPORTANT! Before opening the editing software, put the macropad into editor mod
 
 A CGM-33 drive will show up like a USB flash drive in your file explorer.
 
+# Editing the code yourself
 
 Locate the file main.py on the CGM-33 drive.
 
