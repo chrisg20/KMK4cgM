@@ -1,5 +1,5 @@
 # KMK4cgM
-A guide for using KMK on cgMacropads, currently sold on Etsy [here](https://pages.github.com/](https://www.etsy.com/listing/1267900639/3x3-macro-pad-with-rgb-lighting)!
+A guide for using KMK on cgMacropads, currently sold on Etsy [here](https://www.etsy.com/listing/1267900639/3x3-macro-pad-with-rgb-lighting)!
 
 
 # Editing
