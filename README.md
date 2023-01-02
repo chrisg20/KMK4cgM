@@ -1,4 +1,5 @@
-![](https://i.etsystatic.com/36617648/r/il/2a4033/4527146603/il_1588xN.4527146603_4m6o.jpg width=500)
+<img src="https://i.etsystatic.com/36617648/r/il/2a4033/4527146603/il_1588xN.4527146603_4m6o.jpg" width="400">
+
 
 # KMK4cgM
 A guide for using KMK on cgMacropads, currently sold on Etsy [here](https://www.etsy.com/shop/cgMacropads)!
