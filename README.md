@@ -1,5 +1,5 @@
 # KMK4cgM
-A guide for using KMK on cgMacropads, currently sold on Etsy [here](https://www.etsy.com/listing/1267900639/3x3-macro-pad-with-rgb-lighting)!
+A guide for using KMK on cgMacropads, currently sold on Etsy [here](https://www.etsy.com/shop/cgMacropads)!
 
 
 # Editing with cgEditor
@@ -60,9 +60,17 @@ A complete list of codes can be found here: http://kmkfw.io/docs/keycodes.
 
 # Key Combos
 
+Key combos are written as follows: `KC.LCTL(KC.LSFT)`.
+
+This keycode holds down left control and presses left shift. This can be extended further to `KC.LCTL(KC.LSFT(KC.V))`.
+
+This enters the combo: Left CTRL + Left Shift + V.
+
 # Key Sequences
 
 # Media controls
+
+Examples: `KC.AUDIO_MUTE, KC.AUDIO_VOL_UP, KC.AUDIO_VOL_DOWN`. Full list can be found [here](http://kmkfw.io/docs/media_keys).
 
 # LED commands
 
@@ -71,10 +79,10 @@ A complete list of codes can be found here: http://kmkfw.io/docs/keycodes.
 # Full KMK Reinstall
 All cgMacropads come preinstalled with KMK firmware and work out of the box. Jump down to the customization section to learn how to edit the keymap. 
 
-To reinstall KMK from the beginning, first put the macropad into editor mode by holding down the four corner keys and plugging it into your computer.
+To reinstall KMK from the beginning, first put the macropad into editor mode by holding down the center key and plugging it into your computer.
 
-A CIRCUITPY drive will show up like a USB flash drive in your file explorer. Find it and delete all its contents.
+A CGM-33 drive will show up like a USB flash drive in your file explorer. Find it and delete all its contents.
 
-Next, download the base KMK firmware here.
+Next, download the base KMK firmware according to steps 1-3 of the guide [here](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/Getting_Started.md).
 
-Unzip it and copy ONLY the KMK folder and the boot.py file onto the USB drive corresponding to your board (often appearing as CIRCUITPY)
+Then, copy ONLY the KMK folder and the boot.py file onto the USB drive (appearing as CGM-33).
