@@ -80,7 +80,6 @@ Examples: `KC.AUDIO_MUTE, KC.AUDIO_VOL_UP, KC.AUDIO_VOL_DOWN`. Full list can be 
 # MIDI commands
 
 # Full KMK Reinstall
-All cgMacropads come preinstalled with KMK firmware and work out of the box. Jump down to the customization section to learn how to edit the keymap. 
 
 To reinstall KMK from the beginning, first put the macropad into editor mode by holding down the center key and plugging it into your computer.
 
@@ -88,4 +87,4 @@ A CGM-33 drive will show up like a USB flash drive in your file explorer. Find i
 
 Next, download the base KMK firmware according to steps 1-3 of the guide [here](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/Getting_Started.md).
 
-Then, copy ONLY the KMK folder and the boot.py file onto the USB drive (appearing as CGM-33).
+Then, copy ONLY the KMK folder and the boot.py file from this page onto the USB drive (appearing as CGM-33).
