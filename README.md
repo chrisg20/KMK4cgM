@@ -4,6 +4,8 @@
 # KMK4cgM
 A guide for using KMK on cgMacropads, currently sold on Etsy [here](https://www.etsy.com/shop/cgMacropads)!
 
+# IMPORTANT
+If your device is not recognized in cgEditor, ensure the device is visible as a usb drive and is renamed CGM-33 instead of CIRCUITPY.
 
 # Editing with cgEditor
 
