@@ -7,7 +7,7 @@ from kmk.modules.midi import MidiKeys
 
 keyboard = SeeedBoard()
 
-rgb_ext = RGB(pixel_pin=keyboard.rgb_pixel_pin, num_pixels=keyboard.rgb_num_pixels, hue_default=0, sat_default=255, val_default=255)
+rgb_ext = RGB(pixel_pin=keyboard.rgb_pixel_pin, num_pixels=keyboard.rgb_num_pixels, hue_default=0, sat_default=255, val_default=255, animation_mode=AnimationModes.STATIC, layerColors=[(110,255,255), (30, 255, 255), (250, 255, 255), (0, 255, 255)])
 keyboard.extensions = [rgb_ext]
 keyboard.modules = [Layers(), MidiKeys()]
 
