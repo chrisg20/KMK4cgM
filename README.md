@@ -7,7 +7,7 @@ A guide for using KMK on cgMacropads, currently sold on Etsy [here](https://www.
 # LK-33i
 If you have the newer LK-33i with the knob and LCD screen, click [here](https://www.etsy.com/shop/cgMacropads)!
 
-<img src="(https://i.etsystatic.com/36617648/r/il/9dfb82/4751558020/il_794xN.4751558020_27wn.jpg)" width="400">
+<img src="https://i.etsystatic.com/36617648/r/il/9dfb82/4751558020/il_794xN.4751558020_27wn.jpg" width="400">
 
 # IMPORTANT
 If your device is not recognized in cgEditor, ensure the device is visible as a usb drive (hold center key while plugging in) and is renamed to CGM-33 instead of CIRCUITPY.
