@@ -5,7 +5,7 @@
 A guide for using KMK on cgMacropads, currently sold on Etsy [here](https://www.etsy.com/shop/cgMacropads)!
 
 # LK-33i
-If you have the newer LK-33i with the knob and LCD screen, click [here](https://www.etsy.com/shop/cgMacropads)!
+If you have the newer LK-33i with the knob and LCD screen, click [here](https://github.com/chrisg20/KMK4cgM/tree/main/LK-33i)!
 
 <img src="https://i.etsystatic.com/36617648/r/il/9dfb82/4751558020/il_794xN.4751558020_27wn.jpg" width="400">
 
