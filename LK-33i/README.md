@@ -1,5 +1,5 @@
 # LK-33i
-Thank you for purchasing the new LK-33i Macro Keyboard! The functions, image, and LED lighting can all be fully customised with the LKEditor software, downloadable [here](https://github.com/chrisg20/KMK4cgM/releases/tag/untagged-8f703d914059e1e19318).
+Thank you for purchasing the new LK-33i Macro Keyboard! The functions, image, and LED lighting can all be fully customised with the LKEditor software, downloadable [here](https://github.com/chrisg20/KMK4cgM/releases/tag/v0.9).
 
 <img src="https://i.etsystatic.com/36617648/r/il/9dfb82/4751558020/il_794xN.4751558020_27wn.jpg" width="400">
 
@@ -8,7 +8,7 @@ If your device is not recognized in LKEditor, ensure the device is visible as a 
 
 # Editing with LKEditor
 
-The download for our editing software can be found [here](https://github.com/chrisg20/KMK4cgM/releases/tag/untagged-8f703d914059e1e19318). This is the easiest way to edit the keymaps, and should be sufficient for many users. The software is still very much in beta and feedback is welcome!
+The download for our editing software can be found [here](https://github.com/chrisg20/KMK4cgM/releases/tag/v0.9). This is the easiest way to edit the keymaps, and should be sufficient for many users. The software is still very much in beta and feedback is welcome!
 
 NOTE: Several features of the app are buggy. Most major issues will be fixed in the update coming 4/28/2023.
 
