@@ -14,7 +14,7 @@ If your device is not recognized in cgEditor, ensure the device is visible as a 
 
 # Editing with cgEditor
 
-The download for our editing software can be found [here](https://github.com/chrisg20/KMK4cgM/releases/tag/untagged-8f703d914059e1e19318). This is the easiest way to edit the keymaps, and should be sufficient for many users. The software is still very much in beta and feedback is welcome!
+The download for our editing software can be found [here](https://github.com/chrisg20/KMK4cgM/releases/tag/v2.5). This is the easiest way to edit the keymaps, and should be sufficient for many users. The software is still very much in beta and feedback is welcome!
 
 IMPORTANT! Before opening the editing software, put the macropad into editor mode. This is done by unplugging the device, then holding down the center key while plugging it into your computer. Hold the key for a few seconds after the device is connected.
 
