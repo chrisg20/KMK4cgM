@@ -7,14 +7,14 @@ from kmk.modules.midi import MidiKeys
 
 keyboard = SeeedBoard()
 
-rgb_ext = RGB(pixel_pin=keyboard.rgb_pixel_pin, num_pixels=keyboard.rgb_num_pixels, hue_default=0, sat_default=255, val_default=255, animation_mode=AnimationModes.STATIC, layerColors=[(110,255,255), (30, 255, 255), (250, 255, 255), (0, 255, 255)])
+rgb_ext = RGB(pixel_pin=keyboard.rgb_pixel_pin, num_pixels=keyboard.rgb_num_pixels, hue_default=0, sat_default=255, val_default=255)
 keyboard.extensions = [rgb_ext]
 keyboard.modules = [Layers(), MidiKeys()]
 
 keyboard.keymap = [
 
     [KC.MEDIA_PREV_TRACK, KC.MEDIA_PLAY_PAUSE, KC.MEDIA_NEXT_TRACK,
-	KC.AUDIO_VOL_DOWN, KC.AUDIO_MUTE, KC.AUDIO_VOL_UP,
+	KC.AUDIO_VOL_DOWN, KC.X, KC.AUDIO_VOL_DOWN,
 	KC.A, KC.B, KC.MO(1)
 
     ],
