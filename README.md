@@ -92,6 +92,4 @@ To reinstall KMK from the beginning, first put the macropad into editor mode by 
 
 A CGM-33 drive will show up like a USB flash drive in your file explorer. Find it and delete all its contents.
 
-Next, download the base KMK firmware according to steps 1-3 of the guide [here](https://github.com/KMKfw/kmk_firmware/blob/master/docs/en/Getting_Started.md).
-
-Then, copy ONLY the KMK folder and the boot.py file from this page onto the USB drive (appearing as CGM-33).
+Copy the files from [this page](https://github.com/chrisg20/KMK4cgM/tree/main/CGM-33) onto the USB drive (appearing as CGM-33).
