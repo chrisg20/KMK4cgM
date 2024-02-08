@@ -8,9 +8,7 @@ If your device is not recognized in LKEditor, ensure the device is visible as a 
 
 # Editing with LKEditor
 
-The download for our editing software can be found [here](https://github.com/chrisg20/KMK4cgM/releases/tag/v1.0). This is the easiest way to edit the keymaps, and should be sufficient for many users. The software is still very much in beta and feedback is welcome!
-
-NOTE: Several features of the app are buggy. Most major issues will be fixed in the update coming 4/28/2023.
+The download for our editing software can be found [here](https://github.com/chrisg20/KMK4cgM/releases/tag/v1.0). This is the easiest way to edit the keymaps, and should be sufficient for many users. The software is still in beta and feedback is welcome!
 
 IMPORTANT! Before opening the editing software, put the macropad into editor mode. This is done by unplugging the device, then holding down the knob while plugging it into your computer. Hold the knob for a few seconds after the device is connected.
 
