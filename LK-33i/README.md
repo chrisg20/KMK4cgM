@@ -1,5 +1,5 @@
 # LK-33i
-Thank you for purchasing the new LK-33i Macro Keyboard! The functions, image, and LED lighting can all be fully customised with the LKEditor software, downloadable [here](https://github.com/chrisg20/KMK4cgM/releases/tag/v1.0).
+Thank you for purchasing the new LK-33i Macro Keyboard! The functions, image, and LED lighting can all be fully customized with the LKEditor software, downloadable [here](https://github.com/chrisg20/KMK4cgM/releases/tag/v1.0).
 
 <img src="https://i.etsystatic.com/36617648/r/il/9dfb82/4751558020/il_794xN.4751558020_27wn.jpg" width="400">
 
